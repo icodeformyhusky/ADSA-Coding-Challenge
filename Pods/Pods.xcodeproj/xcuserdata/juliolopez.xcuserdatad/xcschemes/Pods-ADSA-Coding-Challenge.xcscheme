@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0830"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "890D5AC11E9B8BBA0022457B"
-               BuildableName = "ADSA-Coding-Challenge.app"
-               BlueprintName = "ADSA-Coding-Challenge"
-               ReferencedContainer = "container:ADSA-Coding-Challenge.xcodeproj">
+               BlueprintIdentifier = "062D27384FA6156561DEDF79F5F7C50C"
+               BuildableName = "Pods_ADSA_Coding_Challenge.framework"
+               BlueprintName = "Pods-ADSA-Coding-Challenge"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "890D5AC11E9B8BBA0022457B"
-            BuildableName = "ADSA-Coding-Challenge.app"
-            BlueprintName = "ADSA-Coding-Challenge"
-            ReferencedContainer = "container:ADSA-Coding-Challenge.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "890D5AC11E9B8BBA0022457B"
-            BuildableName = "ADSA-Coding-Challenge.app"
-            BlueprintName = "ADSA-Coding-Challenge"
-            ReferencedContainer = "container:ADSA-Coding-Challenge.xcodeproj">
+            BlueprintIdentifier = "062D27384FA6156561DEDF79F5F7C50C"
+            BuildableName = "Pods_ADSA_Coding_Challenge.framework"
+            BlueprintName = "Pods-ADSA-Coding-Challenge"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "890D5AC11E9B8BBA0022457B"
-            BuildableName = "ADSA-Coding-Challenge.app"
-            BlueprintName = "ADSA-Coding-Challenge"
-            ReferencedContainer = "container:ADSA-Coding-Challenge.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
